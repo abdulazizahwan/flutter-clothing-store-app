@@ -15,6 +15,7 @@ This course is designed for beginner to intermediate developers who want to buil
 ## Watch it on YouTube
 
 - PART 1 => [Watch it on YouTube](https://youtu.be/PwcAvuae5g4)
+- PART 2 => [Watch it on YouTube](https://youtu.be/hFH1R7w8X2U)
 
 **Support Me**
 
@@ -30,6 +31,9 @@ This course is designed for beginner to intermediate developers who want to buil
 - flutter_svg: [get package](https://pub.dev/packages/flutter_svg)
 - flutter_staggered_grid_view: [get package](https://pub.dev/packages/flutter_staggered_grid_view)
 - custom_navigation_bar: [get package](https://pub.dev/packages/custom_navigation_bar)
+- flutter_rating_bar: [get package](https://pub.dev/packages/flutter_rating_bar)
+- equatable: [get package](https://pub.dev/packages/equatable)
+- readmore: [get package](https://pub.dev/packages/readmore)
 
 **UI Design Credit**
 
